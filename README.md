@@ -1,4 +1,4 @@
-# 👁️ ChromaShift — Smart Grayscale for Web Browsing
+# 👁️ grayscale-focus — Smart Grayscale Mode for Web Browsing
 
 > **Reduce digital eye strain with a single click.** Switch your browser to comfortable grayscale mode globally, while easily retaining full color on your favorite media sites.
 
@@ -20,10 +20,14 @@ Since this extension is currently in open-source development, you can load it di
 
 1. **Clone or Download this Repository:**
    ```bash
-   git clone [https://github.com/your-username/chroma-shift.git](https://github.com/your-username/chroma-shift.git)
+   git clone [https://github.com/your-username/grayscale-focus.git](https://github.com/your-username/grayscale-focus.git)
 
+   (Or click Code > Download ZIP and extract it to a folder).
 
-   
+Open Google Chrome and navigate to:
+
+Plaintext
+
 
 chrome://extensions/
 Enable Developer mode using the toggle switch in the top right corner.
@@ -33,7 +37,7 @@ Click on the Load unpacked button in the top left corner.
 Select the folder containing the extension files.
 
 🎯 How to Use
-Click the ChromaShift icon in your Chrome extension bar.
+Click the grayscale-focus icon in your Chrome extension bar.
 
 Toggle Global Grayscale to turn grayscale mode ON or OFF for all websites.
 
